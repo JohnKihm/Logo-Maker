@@ -26,7 +26,7 @@ Go to the GitHub page at [https://github.com/JohnKihm/Logo-Maker](https://github
 
 To use the Logo Maker open the command line, navigate to the directory containing the files, and enter the command 'node index.js'. Answer each prompt that appears and if you see the message 'Generated logo.svg' your logo has been successfully generated. Look in the examples directory for the file 'logo.svg' and voila, you have your new logo.
 
-Follow the video guide [here]()
+Follow the video guide [here](https://drive.google.com/file/d/1WqM5GZ3bSv-3rXpThz9tSQd9sfU3-H8y/view)
 
 ## License
 
